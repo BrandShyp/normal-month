@@ -7,7 +7,7 @@ name = "normal-month"
 version = "0.1.0"
 description = "Was this month actually unusual? A dependency-free test for monthly counts across many areas."
 readme = "README.md"
-requires-python = ">=3.9"
+requires-python = ">=3.10"
 license = { text = "MIT" }
 authors = [{ name = "BrandShyp LLC" }]
 

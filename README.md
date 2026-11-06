@@ -1,7 +1,7 @@
 # normal-month
 
 [![tests](https://github.com/justiceharker/normal-month/actions/workflows/tests.yml/badge.svg)](https://github.com/justiceharker/normal-month/actions/workflows/tests.yml)
-![python](https://img.shields.io/badge/python-3.9%2B-blue)
+![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
 **Was this month actually unusual?** A small, dependency-free Python test for monthly
