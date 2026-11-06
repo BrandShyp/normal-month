@@ -1,0 +1,18 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "normal-month"
+version = "0.1.0"
+description = "Was this month actually unusual? A dependency-free test for monthly counts across many areas."
+readme = "README.md"
+requires-python = ">=3.9"
+license = { text = "MIT" }
+authors = [{ name = "BrandShyp LLC" }]
+
+[project.scripts]
+normal-month = "normal_month.__main__:main"
+
+[tool.setuptools]
+packages = ["normal_month"]
