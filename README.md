@@ -1,6 +1,6 @@
 # normal-month
 
-[![tests](https://github.com/justiceharker/normal-month/actions/workflows/tests.yml/badge.svg)](https://github.com/justiceharker/normal-month/actions/workflows/tests.yml)
+[![tests](https://github.com/BrandShyp/normal-month/actions/workflows/tests.yml/badge.svg)](https://github.com/BrandShyp/normal-month/actions/workflows/tests.yml)
 ![python](https://img.shields.io/badge/python-3.10%2B-blue)
 ![dependencies](https://img.shields.io/badge/dependencies-none-brightgreen)
 
@@ -56,7 +56,7 @@ not a drift. It would rather miss a slow trend than cry wolf.
 ## Use it
 
 ```bash
-git clone https://github.com/justiceharker/normal-month && cd normal-month
+git clone https://github.com/BrandShyp/normal-month && cd normal-month
 python -m normal_month examples/demo.csv
 ```
 
